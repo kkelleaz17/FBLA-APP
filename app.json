@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "WestMec Central Campus App",
+    "slug": "FBLAAPP",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/Westly.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Westly.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f57f20"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Westly.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+    
+  }
+}
